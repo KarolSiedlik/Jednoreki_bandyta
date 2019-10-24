@@ -8,5 +8,5 @@ Niżej są podane informacje o stanie twojego konta, ile wygrałeś/przegrałeś
 
 To do: 
 
-Dodać statystykę ile pieniędzy się wygrało łącznie. 
-Zablokować aktualnie wybraną wartość zakładu aby się nie resetowała po zakręceniu.
+1. Dodać statystykę ile pieniędzy się wygrało łącznie. 
+2. Zablokować aktualnie wybraną wartość zakładu aby się nie resetowała po zakręceniu.
