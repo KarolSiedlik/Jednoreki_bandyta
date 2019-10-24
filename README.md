@@ -1,1 +1,1 @@
-# Jednoreki_bandyta
+# Jednoręki bandyta
