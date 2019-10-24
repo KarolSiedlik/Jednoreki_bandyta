@@ -12,3 +12,5 @@ To do:
 
 1. Dodać statystykę ile pieniędzy się wygrało łącznie. 
 2. Zablokować aktualnie wybraną wartość zakładu aby się nie resetowała po zakręceniu.
+
+Użyta technologia: JavaScript w formie zorientowanej obiektowo.
